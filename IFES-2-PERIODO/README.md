@@ -7,7 +7,7 @@
 - [Lógica](https://github.com/Raii-Azevedo/IFES-2-PERIODO/tree/master/L%C3%B3gica)
 - [Programação II](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-2-PERIODO/Programa%C3%A7%C3%A3o%20II)
 - [Teoria Geral de Adm](https://github.com/Raii-Azevedo/IFES-2-PERIODO/tree/master/Teoria%20Geral%20da%20Administra%C3%A7%C3%A3o)
-- [Matematica Discreta]()
+- [Matematica Discreta](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-2-PERIODO/MAT%20DISCRETA)
 
 ## Author
 - Raíssa Azevedo
