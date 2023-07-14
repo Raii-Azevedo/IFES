@@ -5,7 +5,7 @@
 - [Introdução ao Cálculo](https://github.com/Raii-Azevedo/IFES-2-PERIODO/tree/master/Intro%20Calculo)
 - [Laboratório de SI](https://github.com/Raii-Azevedo/IFES-2-PERIODO/tree/master/Laborat%C3%B3rio%20Sistemas%20de%20Informa%C3%A7%C3%A3o)
 - [Lógica](https://github.com/Raii-Azevedo/IFES-2-PERIODO/tree/master/L%C3%B3gica)
-- [Programação II](https://github.com/Raii-Azevedo/IFES-2-PERIODO/tree/master/Programa%C3%A7%C3%A3o%20II)
+- [Programação II](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-2-PERIODO/Programa%C3%A7%C3%A3o%20II)
 - [Teoria Geral de Adm](https://github.com/Raii-Azevedo/IFES-2-PERIODO/tree/master/Teoria%20Geral%20da%20Administra%C3%A7%C3%A3o)
 
 ## Author
