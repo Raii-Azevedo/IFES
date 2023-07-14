@@ -1,0 +1,9 @@
+CONSTRUA UM MÓDULO PYTHON PARA IMPLEMENTAR O TIPO RETANGULO (TADRETANGULO):
+A) UM TADRETANGULO REPRESENTA UM RETANGULO POSICIONADO NO PLANO.
+
+B) INTERFACE:
+B.1: cria_lh(xes,yes,l,h): retorna uma estrutura de dados que representa o TAD.
+B.2: cria(xes,yes,xdi,ydi): retorna uma estrutura de dados que representa o TAD.
+B.3: area(<var tadretangulo>): retorna o valor da área do retângulo.
+B.4: perimetro(<var tadretangulo>): retorna o valor do perímetro do retângulo.
+B.5: pertence(<var tad retangulo>,x,y): retorna True se x, y está no interior do retângulo, False caso contrário.

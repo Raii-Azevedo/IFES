@@ -1,0 +1,431 @@
+TERMOS DE LICENÇA PARA SOFTWARE MICROSOFT
+WINDOWS 7 STARTER
+Os presentes termos de licença constituem um acordo entre você e
+· o fabricante do computador que distribui o software com o computador ou
+· pelo instalador do software que distribui o software com o computador.
+Leia-os atentamente. Eles se aplicam ao software acima identificado, que inclui, se houver, a mídia na
+qual ele está contido. Os termos de licença impressos, que eventualmente acompanham o software, têm
+precedência sobre quaisquer termos de licença na tela. Esses termos também se aplicam aos seguintes
+itens da Microsoft:
+· atualizações,
+· suplementos,
+· serviços de Internet e
+· serviços de suporte
+referentes a este software, salvo quando outros termos acompanharem esses itens. Nesse caso, estes
+últimos serão aplicados.
+Se você obtiver atualizações ou suplementos diretamente da Microsoft, a Microsoft, e não o fabricante ou
+instalador, irá conceder-lhe as respectivas licenças.
+Usar o software representa a sua aceitação desses termos. Se você não aceitá-los, não use o
+software. Em vez disso, contate o fabricante ou instalador para conhecer a política de
+devolução. Você deve acatar esta diretiva, que pode limitar seus direitos ou exigir que você
+devolva o sistema inteiro no qual o software está instalado.
+Conforme descrito a seguir, o uso do software também implicará a autorização da
+transmissão de determinadas informações padrão do computador durante a ativação e a
+validação e para fins de serviços de Internet.
+Ao cumprir estes termos de licença, você terá os direitos abaixo para cada licença de
+software adquirida.
+1. VISÃO GERAL.
+a. Software. O software inclui software de sistema operacional de desktop. Este software não
+inclui os serviços do Windows Live. Os serviços do Windows Live são disponibilizados pela
+Microsoft mediante um contrato separado.
+b. Modelo de Licença. O software é licenciado em uma base por cópia e por computador. Um
+computador é um sistema de hardware físico com um dispositivo de armazenamento interno
+capaz de executar o software. Uma partição de hardware ou um blade é considerado um
+computador separado.
+2. DIREITOS DE INSTALAÇÃO E USO.
+a. Uma Cópia por Computador. A licença de software é consignada em caráter permanente ao
+computador com o qual o software é distribuído. Esse computador é o “computador licenciado”.
+b. Computador Licenciado. Você poderá ainda usar o software em até dois processadores
+simultaneamente no computador licenciado. Salvo disposto de outra forma nestes termos de
+licença, você não poderá usar o software em nenhum outro computador.
+c. Número de Usuários. Salvo disposto de outra forma nestes termos de licença, apenas um
+usuário poderá usar o software de cada vez.
+3. REQUISITOS DE LICENCIAMENTO E/OU DIREITOS DE USO ADICIONAIS.
+a. Multiplexação. Hardware ou software usado para
+· agrupar conexões ou
+· reduzir o número de dispositivos ou usuários que acessam ou usam o software diretamente
+(algumas vezes chamado de “multiplexação” ou “pooling”) não reduz o número de licenças
+necessárias.
+b. Componentes de Fonte. Enquanto o software estiver em execução, você poderá usar as
+respectivas fontes para exibir e imprimir conteúdo. Você poderá apenas
+· incorporar fontes a conteúdos, conforme permitido pelas restrições de incorporação das
+fontes e
+· baixá-las temporariamente para uma impressora ou outro dispositivo de saída para imprimir
+conteúdo.
+c. Ícones, Imagens e Sons. Enquanto o software estiver em execução, você poderá usar, mas
+não compartilhar, seus ícones, suas imagens, seus sons e sua mídia. A mídia, os sons e as
+imagens de amostra fornecidos com o software são apenas para seu uso não comercial.
+d. Uso com Tecnologias de Virtualização. Você não poderá usar o software instalado no
+computador licenciado em um sistema de hardware virtual (ou de outra forma emulado).
+e. Conexões de Dispositivos. Você poderá permitir que até 20 outros dispositivos acessem o
+software instalado no computador licenciado para usar apenas Serviços de Arquivo, Serviços de
+Impressão, Serviços de Informações da Internet e Serviços de Telefonia.
+f. Tecnologias de Acesso Remoto. Você poderá acessar e usar remotamente o software
+instalado no computador licenciado, a partir de outro computador, para compartilhar uma sessão
+usando a Assistência Remota ou tecnologias semelhantes. Uma “sessão” significa a experiência
+de interagir com o software, seja direta ou indiretamente, por meio de qualquer combinação de
+periféricos de entrada, saída e exibição.
+4. ATIVAÇÃO OBRIGATÓRIA.
+A ativação associa o uso do software a um computador específico. Durante a ativação, o software
+enviará informações sobre o software e o computador à Microsoft. Essas informações incluem a
+versão, o idioma e a chave do produto (Product Key) do software, o endereço de protocolo de
+Internet do computador e as informações derivadas da configuração de hardware do computador.
+Para obter mais informações, visite o site go.microsoft.com/fwlink/?Linkid=104609. Usar o software
+significa que você autoriza a transmissão dessas informações. Se tiver obtido a devida licença, você
+terá o direito de usar a versão do software instalada durante o processo de instalação pelo tempo
+permitido para ativação. A menos que o software seja ativado, você não terá o direito de
+usá-lo depois do tempo permitido para ativação. Isso se destina a impedir o uso não
+licenciado. É vedado burlar ou contornar a ativação. Se o computador estiver conectado à
+Internet, o software poderá conectar-se automaticamente à Microsoft para ativação. Você também
+pode ativar o software manualmente pela Internet ou por telefone. Se você fizer isso, as taxas
+aplicáveis do serviço de Internet e de telefone poderão ser cobradas. Além disso, poderá ser
+necessário reativar o software se os componentes do computador ou o software forem alterados. O
+software continuará exibindo um lembrete para a ativação até que você a execute.
+5. VALIDAÇÃO.
+a. A validação verifica se o software foi ativado e se está devidamente licenciado. Também confere
+se não foram feitas alterações não autorizadas nas funções de validação, licenciamento ou
+ativação do software. A validação também poderá verificar a existência de determinados
+softwares mal-intencionados ou não autorizados relacionados a tais alterações não autorizadas.
+Um exame de validação confirmando que você obteve a devida licença permite que você
+continue a usar o software ou determinados recursos do software ou que receba benefícios
+adicionais. É vedado contornar a validação. Isso se destina a impedir o uso não licenciado do
+software. Para obter mais informações, visite o site go.microsoft.com/fwlink/?Linkid=104610.
+b. Periodicamente, o software poderá executar um exame de validação do software. Essa
+verificação poderá ser iniciada pelo software ou pela Microsoft. Para habilitar a função de
+ativação e as verificações de validação, periodicamente, o software poderá requerer atualizações
+ou downloads adicionais das funções de validação, licenciamento ou ativação do software. As
+atualizações ou os downloads são necessários para o funcionamento correto do software e
+podem ser baixados e instalados sem que outros avisos sejam emitidos a respeito. Durante ou
+após uma verificação de validação, o software poderá enviar informações sobre si mesmo, sobre
+o computador e os resultados da verificação à Microsoft. Essas informações incluem, por
+exemplo, a versão e a chave do produto (Product Key) do software, quaisquer alterações não
+autorizadas feitas nas funções de validação, licenciamento ou ativação do software, qualquer
+software mal-intencionado ou não autorizado relacionado que seja encontrado e o endereço do
+protocolo de Internet do computador. A Microsoft não usa as informações para identificar nem
+contatar você. Usar o software significa que você autoriza a transmissão dessas informações.
+Para obter mais informações sobre a validação e o que é enviado durante ou após uma
+verificação de validação, visite o site go.microsoft.com/fwlink/?Linkid=104611.
+c. Se, após um exame de validação, for constatado que o software é falsificado, foi licenciado
+indevidamente, não é um produto Windows original ou se incluir alterações não autorizadas, a
+funcionalidade e a experiência de uso do software serão afetadas. Por exemplo:
+A Microsoft poderá
+· reparar o software, remover, pôr em quarentena ou desabilitar quaisquer alterações não
+autorizadas que possam interferir no uso correto do software, inclusive fraude nas funções
+de ativação ou validação do software,
+· verificar e remover softwares mal-intencionados ou não autorizados sabidamente
+relacionados a tais alterações não autorizadas ou
+· emitir notificações indicando que o software foi licenciado de maneira imprópria ou não é um
+produto Windows original
+e você poderá
+· receber lembretes para obter uma cópia devidamente licenciada do software ou
+· precisar seguir as instruções da Microsoft a fim de obter a devida licença para usar o
+software e reativá-lo
+e talvez você não consiga
+· usar nem continuar usando o software ou alguns dos recursos do software ou
+· obter determinados upgrades ou atualizações da Microsoft.
+d. Você só poderá obter upgrades ou atualizações para o software da Microsoft ou de fontes
+autorizadas. Para obter mais informações sobre como obter atualizações de fontes autorizadas,
+consulte o site go.microsoft.com/fwlink/?Linkid=104612.
+6. SOFTWARE POTENCIALMENTE INDESEJÁVEL. Se estiver ativado, o Windows Defender
+procurará “spyware”, “adware” e outros softwares potencialmente indesejáveis em seu computador.
+Se ele encontrar programas potencialmente indesejáveis, o software perguntará se você deseja
+ignorá-los, desabilitá-los (colocá-los em quarentena) ou removê-los. Qualquer programa
+potencialmente indesejável classificado como “alto” ou “grave” será automaticamente removido após
+a verificação, a menos que você altere a configuração padrão. A remoção ou desabilitação de
+programas potencialmente indesejáveis pode fazer com que
+· outros programas em seu computador deixem de funcionar ou
+· ocorra a violação da licença para usar outro software em seu computador.
+Ao usar esse software, é possível que você também remova ou desabilite programas que não sejam
+potencialmente indesejáveis.
+7. SERVIÇOS DE INTERNET. A Microsoft presta serviços de Internet com o software. Ela poderá
+alterá-los ou cancelá-los a qualquer momento.
+a. Consentimento para Serviços de Internet. Os recursos de software descritos abaixo e na
+Declaração de Privacidade do Windows 7 se conectam à Microsoft ou a sistemas de computador
+do provedor de serviços pela Internet. Em alguns casos, você não receberá um aviso separado
+quando ocorrer essa conexão. Em alguns casos, você poderá optar por desativar esses recursos
+ou não usá-los. Para obter mais informações sobre esses recursos, consulte a Declaração de
+Privacidade do Windows 7 no site go.microsoft.com/fwlink/?linkid=104604. Ao usar esses
+recursos, você autoriza a transmissão dessas informações descritas a seguir. A
+Microsoft não usa as informações para identificar nem contatar você.
+Informações sobre o Computador. Os recursos a seguir usam protocolos de Internet, que enviam
+informações sobre o computador para os sistemas adequados, como endereço de protocolo de
+Internet, tipo de sistema operacional, navegador e nome e versão do software que está sendo
+usado, bem como o código de idioma do computador no qual o software foi instalado. A
+Microsoft usa essas informações para disponibilizar os serviços de Internet para você.
+· Plug and Play e Extensões Plug and Play. Você pode conectar novo hardware ao seu
+computador diretamente ou por uma rede. É possível que seu computador não tenha os
+drivers necessários para se comunicar com esse hardware. Nesse caso, o recurso de
+atualização do software pode obter o driver correto da Microsoft e instalá-lo em seu
+computador. Um administrador pode desativar esse recurso de atualização.
+· Windows Update. Para ativar o funcionamento correto do serviço Windows Update no
+software (se você usar o serviço), será preciso fazer atualizações ou downloads periódicos
+para o serviço Windows Update, que serão baixados e instalados sem aviso.
+· Recursos de Conteúdo da Web. Certos recursos incluídos no software podem recuperar
+conteúdo relacionado da Microsoft e fornecê-lo a você. Exemplos desses recursos: clip-art,
+modelos, treinamento online, assistência online e Appshelp. Você poderá optar por não usar
+esses recursos de conteúdo da Web.
+· Certificados Digitais. O software usa certificados digitais. Esses certificados digitais confirmam
+a identidade dos usuários de Internet que enviam informações criptografadas X.509 padrão.
+Eles também podem ser usados para assinar digitalmente arquivos e macros, bem como para
+verificar a integridade e a origem do conteúdo dos arquivos. O software acessa certificados e
+atualiza as listas de revogação de certificados pela Internet, quando disponível.
+· Atualização Automática da Raiz. O recurso Atualização Automática da Raiz atualiza a lista de
+autoridades de certificação confiáveis. Você poderá optar por desativar esse recurso.
+· Gerenciamento de Direitos Digitais do Windows Media. Os proprietários de conteúdo usam a
+tecnologia de gerenciamento de direitos digitais do Windows Media (WMDRM) para proteger
+sua propriedade intelectual, inclusive direitos autorais. Este software e softwares de terceiros
+usam o WMDRM para reproduzir e copiar conteúdo protegido pelo WMDRM. Se o software
+não conseguir proteger o conteúdo, os proprietários do conteúdo poderão solicitar que a
+Microsoft revogue a capacidade do software de usar o WMDRM para reproduzir ou copiar
+conteúdo protegido. A revogação não afeta outros tipos de conteúdo. Quando você baixa
+licenças para conteúdo protegido, autoriza a Microsoft a incluir uma lista de certificados
+revogados com as licenças. Os proprietários de conteúdo podem exigir que você faça a
+atualização do WMDRM para ter acesso ao conteúdo deles. O software da Microsoft que
+inclui o WMDRM solicitará sua permissão antes de fazer a atualização. Você não poderá
+acessar conteúdo que exija uma atualização caso a recuse. Você poderá optar por desativar
+os recursos de WMDRM que acessam a Internet. Mesmo quando esses recursos estiverem
+desativados, você ainda poderá reproduzir o conteúdo para o qual tiver uma licença válida.
+· Windows Media Player. Quando você usa o Windows Media Player, ele verifica os seguintes
+itens na Microsoft:
+· serviços de música online compatíveis na sua região e
+· novas versões do player.
+Para obter mais informações, visite o site go.microsoft.com/fwlink/?linkid=104605.
+· Remoção de Software Mal-intencionado. Durante a instalação, se você selecionar "Obter
+atualizações importantes para a instalação", o software poderá verificar a existência de
+determinado malware e removê-lo do seu computador. “Malware” é um software
+mal-intencionado. Se o software for executado, ele removerá o Malware relacionado e
+atualizará a lista no site www.support.microsoft.com/?kbid=890830. Durante a verificação de
+Malware, será enviado um relatório para a Microsoft com informações específicas sobre o
+Malware detectado, erros e outras informações sobre o seu computador. Essas informações
+serão usadas para melhorar o software e outros produtos e serviços da Microsoft. Nenhuma
+informação inclusa nesses relatórios será usada para identificá-lo nem para entrar em
+contato com você. Você pode desabilitar a funcionalidade de relatório do software seguindo
+as instruções localizadas no site www.support.microsoft.com/?kbid=890830. Para obter mais
+informações, consulte a declaração de privacidade da Ferramenta de Remoção de Software
+Mal-Intencionado do Windows no site go.microsoft.com/fwlink/?LinkId=113995.
+· Reconhecimento de Rede. Esse recurso determina se um sistema está conectado a uma rede
+por meio de monitoramento passivo do tráfego da rede ou de consultas ativas de DNS ou
+HTTP. A consulta apenas transfere informações padrão de TCP/IP ou DNS para fins de
+roteamento. Você pode desativar o recurso de consulta ativa por meio de uma configuração
+do Registro.
+· Serviço de Tempo do Windows. Esse serviço faz uma sincronização com time.windows.com
+uma vez por semana para ajustar seu computador com a hora correta. Você pode desativar
+esse recurso ou escolher a sua fonte preferida de horário no miniaplicativo Data e Hora do
+Painel de Controle. A conexão usa o protocolo NTP padrão.
+· Serviço Conversão de Endereços de Rede (NAT) - Traversal do IPv6 (Teredo). Esse recurso
+auxilia na transição de dispositivos de gateway de Internet existentes para o IPv6. O IPv6 é
+um protocolo de Internet de última geração. Ele ajuda a habilitar a conectividade ponta a
+ponta muitas vezes necessária a aplicativos ponto a ponto. Para fazer isso, sempre que você
+iniciar o software, o serviço de cliente Teredo tentará localizar um serviço de Internet Teredo
+público. Ele faz isso enviando uma consulta via Internet. Essa consulta apenas transfere
+informações padrão de serviço de nomes de domínio para determinar se o seu computador
+está conectado à Internet e pode localizar um serviço Teredo público. Se você
+· usar um aplicativo que exija conectividade IPv6 ou
+· configurar seu firewall para sempre habilitar a conectividade IPv6
+por padrão, as informações de protocolo de Internet serão enviadas ao serviço Teredo na
+Microsoft em intervalos regulares. Nenhuma outra informação será enviada à Microsoft. Você
+pode alterar esse padrão para usar servidores que não sejam da Microsoft. Você também pode
+desativar esse recurso por meio de um utilitário de linha de comando denominado “netsh”.
+· Aceleradores. Quando você clicar no mouse ou movê-lo sobre um Acelerador no Internet
+Explorer, qualquer um dos itens a seguir poderá ser enviado ao provedor de serviços:
+· o título e a URL ou o endereço Web completo da página da Web atual,
+· informações padrão sobre o computador e
+· qualquer conteúdo que você tiver selecionado.
+Se você usar um Acelerador fornecido pela Microsoft, o uso das informações enviadas estará
+sujeito à Declaração de Privacidade Online da Microsoft. Essa declaração está disponível no
+site go.microsoft.com/fwlink/?linkid=31493. Se você usar um Acelerador fornecido por um
+terceiro, o uso das informações enviadas estará sujeito às práticas de privacidade de
+terceiros.
+· Serviço de Sugestões de Pesquisa. Quando digitar uma consulta de pesquisa no Internet
+Explorer usando a caixa Pesquisa Instantânea ou digitando um ponto de interrogação (?)
+antes do termo de pesquisa na Barra de endereços, você verá as sugestões de pesquisa à
+medida que digitar (caso seu provedor de pesquisa ofereça suporte a esse recurso). Tudo o
+que você digita na caixa Pesquisa Instantânea ou na Barra de endereços precedido por um
+ponto de interrogação (?) é enviado ao seu provedor de pesquisa à medida que você digita.
+Além disso, quando você pressiona Enter ou clica no botão Pesquisar, todo o texto que está
+na caixa Pesquisa Instantânea ou na Barra de endereços é enviado ao provedor de pesquisa.
+Se você usar um provedor de pesquisa da Microsoft, o uso das informações enviadas estará
+sujeito à Declaração de Privacidade Online da Microsoft. Essa declaração está disponível no
+site go.microsoft.com/fwlink/?linkid=31493. Se você usar um provedor de pesquisa de
+terceiros, o uso das informações enviadas estará sujeito às práticas de privacidade de
+terceiros. Você pode desativar as sugestões de pesquisa a qualquer momento. Para isso, no
+Internet Explorer, clique no botão Ferramentas e em Gerenciar Complementos. Para obter
+mais informações sobre o serviço de sugestões de pesquisa, visite o site
+go.microsoft.com/fwlink/?Linkid=128106.
+b. Uso de Informações. A Microsoft pode usar as informações do computador, as informações do
+acelerador, informações sobre sugestões de pesquisa, relatórios de erro e relatórios de Malware
+para aprimorar seus serviços e software. Pode ainda compartilhar essas informações com
+terceiros, como fornecedores de hardware e software. Estes poderão usá-las para aprimorar seus
+produtos executados com software da Microsoft.
+c. Uso Indevido dos Serviços de Internet. Você não poderá usar esses serviços de maneira
+que possa danificá-los ou prejudicar seu uso por outros. Você não poderá usar os serviços para
+tentar obter acesso não autorizado a serviços, dados, contas ou redes por qualquer meio.
+8. ESCOPO DA LICENÇA. O software é licenciado, não vendido. Este contrato concede a você apenas
+alguns direitos de uso dos recursos incluídos na edição do software que você licenciou. O fabricante
+ou instalador e a Microsoft reservam-se todos os outros direitos. Salvo quando a lei aplicável conferir
+outros direitos, não obstante a presente limitação, você poderá usar o software apenas da maneira
+expressamente permitida neste contrato. Ao fazer isso, você deverá respeitar todas as limitações
+técnicas do software que permitam seu uso apenas de determinadas formas. É vedado:
+· contornar quaisquer limitações técnicas do software;
+· personalizar o plano de fundo da área de trabalho;
+· aplicar engenharia reversa, descompilar ou desmontar o software, salvo e somente na medida
+em que essa atividade seja expressamente permitida pela lei aplicável, não obstante esta
+limitação;
+· usar componentes do software para executar aplicativos que não são executados no software;
+· fazer um número de cópias do software acima do especificado neste contrato ou permitido pela
+lei aplicável, não obstante esta limitação;
+· publicar o software para que outras pessoas o copiem;
+· alugar, arrendar ou emprestar o software ou
+· usar o software para serviços de hospedagem de software comercial.
+Determinados recursos de outras edições de produto do Windows 7, incluindo o Windows Aero e a
+capacidade de alterar o plano de fundo da área de trabalho, não são incluídos neste software.
+9. TESTE DE BENCHMARK DO MICROSOFT .NET. O software inclui um ou mais componentes do
+.NET Framework (“Componentes .NET”). Você poderá realizar testes de benchmark internos desses
+componentes. Você poderá divulgar os resultados de qualquer teste de benchmark desses
+componentes, contanto que observe as condições definidas no site
+go.microsoft.com/fwlink/?LinkID=66406. Não obstante qualquer outro contrato porventura vigente
+entre você e a Microsoft, se você divulgar os resultados desses testes de benchmark, a Microsoft terá
+o direito de divulgar os resultados dos testes de benchmark que ela própria realizar nos seus
+produtos concorrentes do Componente .NET aplicável, respeitadas as mesmas condições definidas no
+site go.microsoft.com/fwlink/?LinkID=66406.
+10. CÓPIA DE BACKUP. É possível fazer uma cópia do software para backup. Ela pode ser usada
+apenas para reinstalar o software no computador licenciado.
+11. DOCUMENTAÇÃO. Qualquer pessoa que tenha acesso válido ao seu computador ou à sua rede
+interna poderá copiar e usar a documentação para fins de referência interna.
+12. SOFTWARE NÃO COMERCIALIZÁVEL. É proibido vender o software marcado como “NFR” ou “Not
+for Resale” (Revenda Proibida).
+13. RESTRIÇÕES GEOGRÁFICAS. Se o software estiver marcado com ativação obrigatória em uma
+região específica, você só poderá ativá-lo na região geográfica indicada no software ou na
+embalagem do computador. Você não poderá ativar o software fora dessa região. Para obter mais
+informações sobre restrições geográficas, visite o site go.microsoft.com/fwlink/?LinkId=141397.
+14. ATUALIZAÇÕES. Para usar um software identificado como uma atualização, você precisa primeiro
+estar licenciado para o software qualificado para a atualização. Após a atualização, este contrato
+substituirá o contrato da versão anterior de software. Após a atualização, você não poderá mais usar
+a versão anterior do software.
+15. COMPROVANTE DE LICENÇA.
+a. Comprovante de Licença Legítimo. Caso você tenha adquirido o software em um
+computador, em um disco ou em outra mídia, um selo original de Certificado de Autenticidade
+(“Certificate of Authenticity” ou “COA”) da Microsoft com uma cópia original do software
+identificará o software licenciado. Para que tenha validade, o selo precisa estar afixado no
+computador ou aparecer na embalagem do fabricante ou instalador. Se você receber o selo
+separadamente, ele será inválido. Mantenha a etiqueta no computador ou o pacote que contém a
+etiqueta afixada para comprovar que você tem licença para usar o software. Se o computador
+tiver mais de uma etiqueta original do Certificado de Autenticidade, você poderá usar cada
+versão do software identificado nessas etiquetas.
+b. Licença Windows Anytime Upgrade. Se você atualizar do software com o Windows Anytime
+Upgrade, o seu comprovante de licença será identificado
+· pelo selo original do Certificado de Autenticidade da versão anterior do software da Microsoft e
+· pelo selo original do comprovante de compra do Windows Anytime Upgrade Kit da Microsoft
+usado para atualizar. O comprovante de compra pode estar sujeito à verificação pelos
+registros do seu revendedor.
+c. Para identificar o software original da Microsoft, visite o site www.howtotell.com.
+16. TRANSFERÊNCIA PARA TERCEIROS. A transferência do software diretamente a terceiros é
+permitida somente com o computador licenciado. A transferência deverá incluir o software e o selo
+do Certificado de Autenticidade. Você não poderá ficar com nenhuma cópia do software nem de
+qualquer versão anterior. Antes da transferência permitida, a outra parte deverá concordar que este
+contrato se aplicará à transferência e ao uso do software.
+17. AVISO SOBRE O PADRÃO VISUAL H.264/AVC, O PADRÃO VÍDEO VC-1 E O PADRÃO
+VISUAL MPEG-4. Este software inclui a tecnologia de compactação visual H.264/AVC, VC-1 e
+MPEG-4 PARTE 2. A MPEG LA, L.L.C. requer este aviso:
+ESTE PRODUTO ESTÁ LICENCIADO DE ACORDO COM AS LICENÇAS DE PORTFÓLIO DE PATENTES
+DO PADRÃO AVC, VC-1 E O PADRÃO VISUAL MPEG-4 PARTE 2 PARA USO PESSOAL E NÃO
+COMERCIAL DE UM CONSUMIDOR PARA (i) CODIFICAR VÍDEO EM CONFORMIDADE COM OS
+PADRÕES ACIMA (“PADRÕES DE VÍDEO”) E/OU (ii) DECODIFICAR AVC, VC-1, VÍDEO MPEG-4 PARTE
+2 E MPEG-2 QUE TENHAM SIDO CODIFICADOS POR UM CONSUMIDOR ENVOLVIDO EM UMA
+ATIVIDADE PESSOAL E NÃO COMERCIAL OU OBTIDO POR UM FORNECEDOR DE VÍDEO
+LICENCIADO PARA FORNECER TAL VÍDEO. AS LICENÇAS NÃO SE ESTENDEM A QUALQUER OUTRO
+PRODUTO, INDEPENDENTEMENTE DE TAL PRODUTO ESTAR INCLUÍDO COM ESTE PRODUTO EM
+UM ÚNICO ARTIGO. NÃO SERÁ CONCEDIDA NEM ESTARÁ IMPLÍCITA NENHUMA LICENÇA PARA
+QUALQUER OUTRO USO. INFORMAÇÕES ADICIONAIS PODERÃO SER OBTIDAS NA MPEG LA, L.L.C.,
+NO SITE WWW.MPEGLA.COM.
+18. PROGRAMAS DE TERCEIROS. O software contém programas de terceiros. Os termos de licença
+desses programas serão aplicados ao uso que você fizer deles.
+19. RESTRIÇÕES DE EXPORTAÇÃO. O software está sujeito às leis e aos regulamentos de exportação
+dos Estados Unidos. Devem ser cumpridas todas as leis e os regulamentos de exportação nacionais e
+internacionais aplicáveis ao software. Essas leis incluem restrições relacionadas a destinos, usuários
+finais e uso final. Para obter informações adicionais, consulte o site www.microsoft.com/exporting.
+20. SERVIÇOS DE SUPORTE. Para conhecer as opções gerais de suporte do software, entre em
+contato com o fabricante ou o instalador. Consulte o número de suporte fornecido com o software.
+Para obter atualizações e suplementos obtidos diretamente da Microsoft, esta fornece suporte
+conforme descrito no site www.support.microsoft.com/common/international.aspx. Se estiver usando
+software que não esteja devidamente licenciado, você não estará autorizado a receber os serviços de
+suporte.
+21. ACORDO INTEGRAL. Este contrato (incluindo a garantia abaixo), os termos adicionais (incluindo
+quaisquer termos de licença impressos que acompanhem o software e possam modificar ou substituir
+alguns ou todos os termos) e os termos dos suplementos, das atualizações, dos serviços de Internet
+e dos serviços de suporte usados por você constituem o acordo integral para o software e os serviços
+de suporte.
+22. LEI APLICÁVEL.
+a. Nos Estados Unidos. Se você tiver adquirido o software nos Estados Unidos, o presente
+contrato será regido e interpretado de acordo com as leis do Estado de Washington, que serão
+aplicadas às reclamações de violação de contrato, independentemente dos conflitos de princípios
+de leis. As leis do estado no qual você reside regerão todas as outras reclamações, incluindo leis
+de defesa do consumidor, concorrência desleal e atos ilícitos extracontratuais.
+b. Fora dos Estados Unidos. Se você tiver adquirido o software em qualquer outro país, serão
+aplicadas as leis desse país.
+23. EFEITO LEGAL. Este contrato descreve determinados direitos previstos em lei. Você poderá ter
+outros direitos de acordo com as leis do seu estado ou país. Você também poderá ter direitos em
+relação à parte de quem o software foi adquirido. Este contrato não altera os seus direitos previstos
+nas leis do seu estado ou país caso essas leis não o permitam.
+24. LIMITAÇÃO E EXCLUSÃO DE INDENIZAÇÕES. Exceto por qualquer reembolso que o
+fabricante ou instalador possa fornecer, não será possível recuperar quaisquer outros
+danos, inclusive danos consequenciais, especiais, indiretos, incidentais ou por lucros
+cessantes.
+Esta limitação se aplica a:
+· toda e qualquer questão relacionada ao software, aos serviços ou ao conteúdo (inclusive código)
+em sites ou programas de terceiros e
+· reclamações por violação de contrato, violação de garantia ou condição, responsabilidade
+objetiva, negligência ou outro ato ilícito extracontratual, de acordo com os termos da lei
+aplicável.
+A limitação em questão também se aplicará caso:
+· o reparo, a substituição ou o reembolso do software não constitua compensação plena por
+quaisquer prejuízos ou
+· a Microsoft souber ou tiver a obrigação de saber sobre a possibilidade das indenizações.
+Alguns estados não permitem a isenção nem a limitação de danos incidentais ou consequenciais.
+Portanto, a limitação ou a isenção acima poderá não se aplicar a você. Essas isenções ou limitações
+podem não ser aplicáveis no seu caso pelo fato de o seu país não permitir a isenção ou a limitação
+de indenizações incidentais, consequenciais ou a outro título.
+***********************************************************************
+GARANTIA LIMITADA
+A. GARANTIA LIMITADA. Se você seguir as instruções e o software estiver devidamente licenciado, o
+software será executado substancialmente de acordo com o que está descrito nos materiais da
+Microsoft recebidos no software ou que o acompanham.
+B. TERMO DE GARANTIA; ADQUIRENTE DA GARANTIA; DURAÇÃO DE QUALQUER GARANTIA
+IMPLÍCITA. A garantia limitada contemplará o software até 90 dias após a data em que
+for adquirido pelo primeiro usuário. Caso você receba suplementos, atualizações ou
+softwares substitutos durante esses 90 dias, eles contarão com cobertura pelo restante
+da garantia ou por 30 dias, o que for maior. Se você transferir o software, o restante da
+garantia aplicar-se-á ao beneficiário da transferência.
+Na extensão permitida pela lei, todas as garantias ou condições implícitas terão apenas a
+duração da garantia limitada. Alguns estados não permitem limitações na duração de uma
+garantia implícita; portanto, essas limitações podem não se aplicar a você. Elas também podem não
+se aplicar a você pelo fato de alguns países não permitirem limitações na duração de uma garantia
+ou condição implícita.
+C. EXCLUSÕES DE GARANTIA. Esta garantia não cobre problemas causados pelos seus atos (ou
+falhas), pelos atos de outras pessoas ou por eventos que estejam além do controle legítimo do
+fabricante, do instalador ou da Microsoft.
+D. RECURSO PARA QUEBRA DE GARANTIA. O fabricante ou instalador irá, a seu próprio
+critério, (i) reparar ou substituir o software sem custos adicionais ou (ii) aceitar a
+devolução do(s) produto(s) e reembolsar o valor pago, se houver. O fabricante ou o
+instalador também poderá reparar ou substituir suplementos, atualizações e software de
+substituição ou reembolsar o valor pago por eles, se houver. Contate o fabricante ou o
+instalador sobre a política adotada. Esses são os seus únicos recursos para a quebra da
+garantia limitada.
+E. DIREITOS DO CONSUMIDOR NÃO AFETADOS. Você pode ter direitos de consumidor
+adicionais de acordo com as leis locais, que este contrato não pode alterar.
+F. PROCEDIMENTOS DE GARANTIA. Contate o fabricante ou instalador para saber como obter o
+serviço de garantia do software. Para obter um reembolso, você deverá cumprir as políticas de
+devolução do fabricante ou instalador.
+G. ISENÇÃO DE OUTRAS GARANTIAS. A garantia limitada constitui a única garantia direta
+prestada pelo fabricante ou instalador ou pela Microsoft. O fabricante ou instalador e a
+Microsoft não fornecem outras garantias ou condições expressas. Onde as leis locais
+permitirem, o fabricante ou instalador e a Microsoft excluem as garantias implícitas de
+qualidade comercial, adequação a uma finalidade específica e não violação. Se as suas leis
+locais preveem garantias ou condições implícitas, não obstante esta exclusão, seus recursos estarão
+descritos na cláusula Recurso em Caso de Quebra de Garantia acima, nos termos das leis locais.
+H. LIMITAÇÃO E EXCLUSÃO DE DANOS REFERENTES À QUEBRA DE GARANTIA. A cláusula
+Limitação e Exclusão de Danos acima se aplica a violações desta garantia limitada.
+Esta garantia oferece direitos legais específicos, e você também pode ter outros direitos
+que variam de acordo com cada estado. Você também pode ter outros direitos que
+variam de acordo com cada país.
+!!!!EULAID!!!!
