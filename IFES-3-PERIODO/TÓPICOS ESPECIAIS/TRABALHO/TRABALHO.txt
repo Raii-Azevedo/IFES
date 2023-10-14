@@ -1,0 +1,18 @@
+ORIENTAÇÕES DO TRABALHO
+
+Desenvolva um algoritmo no VisualG que permita a entrada do nome de um 
+aluno e as notas de três provas, sendo que cada nota deve estar no 
+intervalo de 0 a 10 pontos. 
+O sistema deverá verificar se as notas são válidas, informando ao 
+usuário quando uma nota for digitada fora desse intervalo e solicitando 
+uma nova entrada.
+
+
+Após a entrada das notas, o algoritmo deve calcular a soma das três notas. Em seguida, deverá determinar se o aluno foi aprovado ou reprovado com base na seguinte regra: se a soma das notas for igual ou maior que 18, o aluno estará aprovado; caso contrário, estará reprovado.
+
+Valor do trabalho: 3,0 pontos
+
+Forma de envio: Grave um vídeo apresentando a tela do código e, 
+em seguida, a execução do programa bem como as validações. 
+Envie o link para acesso ao vídeo. Pode ser postado no Youtube como 
+Não Listado ou o link do drive.
