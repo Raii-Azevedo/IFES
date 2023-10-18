@@ -1,7 +1,7 @@
 Algoritmo "NOTA ALUNO"
-// Disciplina   : [Linguagem e Lógica de Programação]i
+// Disciplina   : [Linguagem e Lógica de Programação]
 // Autor(a)    : Raíssa Azevedo
-// Data atual  : 14/10/2023
+// Data atual  : 17/10/2023
 Var
    nome: Caractere
    nota1, nota2, nota3, soma: Real
