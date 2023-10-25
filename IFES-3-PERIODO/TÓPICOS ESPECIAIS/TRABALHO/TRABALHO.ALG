@@ -1,7 +1,7 @@
 Algoritmo "NOTA ALUNO"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Autor(a)    : Raíssa Azevedo
-// Data atual  : 17/10/2023
+// Disciplina   : [Topicos Especiais]
+// Autor(a)    : Raissa Azevedo
+// Data atual  : 23/10/2023
 Var
    nome: Caractere
    nota1, nota2, nota3, soma: Real
@@ -31,11 +31,11 @@ Inicio
    // Soma
    soma <- nota1 + nota2 + nota3
 
-   // Verificação
+   // Verificaï¿½ï¿½o
    Se soma >= 18 Entao
-      Escreva("O(a) aluno(a) ", nome, " foi APROVADO com nota igual a", soma)
+      Escreva("O(a) aluno(a) ", nome, " foi APROVADO com nota igual a ", soma)
    Senao
-      Escreva("O(a) aluno(a) ", nome, " foi REPROVADO com nota igual a", soma)
+      Escreva("O(a) aluno(a) ", nome, " foi REPROVADO com nota igual a ", soma)
    FimSe
 
 FimAlgoritmo
