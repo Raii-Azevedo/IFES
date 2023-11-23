@@ -1,0 +1,17 @@
+DESTACANDO TABELAS, CHAVES PRIMÁRIAS, ESTRANGEIRAS E VISÕES
+
+Tabelas:
+    - Entidades domedo conceitual viram tabelas no SGBD
+    - É criada para armazenas dados
+    - Os dados são armazenados em linhas(registros) e colunas (campos)
+    - Cada tabela descreve um determinado assunto
+
+Chave Primária:
+    - Faz referência a um atributo.
+
+Chave Estrangeira:
+    - Faz referência a outra tabela (faz referência a chave primária em outra tabela)
+
+Visão
+    - É uma tabela lógica, uma tabela "vitual", não contém os dados.
+
