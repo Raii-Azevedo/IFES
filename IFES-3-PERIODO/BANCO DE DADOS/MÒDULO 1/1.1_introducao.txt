@@ -1,0 +1,9 @@
+PROCESSOS HISTÓRICOS DE INFORMATIZAÇÃO
+
+- A informatização ocorreu enquanto um processo evolutivo e gradual.
+- No início os sismetas eram isolados e não integrados, construídos para resolver questões pontuais. ex:
+    - Vendas
+    - Produção
+    - Compras
+- Não havia um conceito de SISTEMA propriamente como é conhecido atualmente.
+
