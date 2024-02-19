@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/Raiis/Desktop/IFES-1/IFES-4-PERIODO/ESTRUTURA DE DADOS",
+      "program": "c:/Users/Raiis/Desktop/IFES-1/IFES-4-PERIODO/ESTRUTURA DE DADOS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
