@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class alunos {
     public static void main(String[] args) {
     System.out.println("---- FORMULÁRIO DE CADASTRO -----");
     Scanner scanner = new Scanner(System.in);

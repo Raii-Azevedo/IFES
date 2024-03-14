@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Principal",
+      "request": "launch",
+      "mainClass": "Principal",
+      "projectName": "IFES_46d38656"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "IFES_46d38656"
+    },
+    {
+      "type": "java",
       "name": "CalculadoraVolumeVigas",
       "request": "launch",
       "mainClass": "CalculadoraVolumeVigas",
