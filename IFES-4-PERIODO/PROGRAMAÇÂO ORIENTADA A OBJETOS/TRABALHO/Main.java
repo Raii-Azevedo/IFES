@@ -118,7 +118,6 @@ public class Main {
                 writer.println(aluno.getNome() + ", " + aluno.getIdade() + ", " + aluno.getMatricula() + ", "
                         + aluno.getCurso());
             }
-            showMessage("Alunos salvos com sucesso!");
         } catch (IOException e) {
             showError("Erro ao salvar alunos: " + e.getMessage());
         }
