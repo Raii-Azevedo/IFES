@@ -1,0 +1,904 @@
+{
+    "dados": [
+        {
+            "km": "250758",
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "placa": "TML-8452"
+        },
+        {
+            "km": "111646",
+            "marca": "CHEVROLET",
+            "modelo": "COBALT",
+            "placa": "ZUF-4557"
+        },
+        {
+            "km": "74462",
+            "marca": "FIAT",
+            "modelo": "IDEA",
+            "placa": "XZY-4170"
+        },
+        {
+            "km": "213602",
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "placa": "LFM-6362"
+        },
+        {
+            "km": "48792",
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "placa": "CVB-7928"
+        },
+        {
+            "km": "139922",
+            "marca": "CHEVROLET",
+            "modelo": "AGILE",
+            "placa": "HFR-9922"
+        },
+        {
+            "km": "125581",
+            "marca": "RENAULT",
+            "modelo": "DUSTER",
+            "placa": "CRE-2540"
+        },
+        {
+            "km": "122332",
+            "marca": "CHEVROLET",
+            "modelo": "COBALT",
+            "placa": "HSK-7038"
+        },
+        {
+            "km": "115458",
+            "marca": "RENAULT",
+            "modelo": "CAPTUR",
+            "placa": "XKQ-9126"
+        },
+        {
+            "km": "152074",
+            "marca": "VOLKSWAGEN",
+            "modelo": "FUSCA",
+            "placa": "QAN-7821"
+        },
+        {
+            "km": "39386",
+            "marca": "TOYOTA",
+            "modelo": "ETIOS SEDAN",
+            "placa": "QMX-8558"
+        },
+        {
+            "km": "30582",
+            "marca": "CHEVROLET",
+            "modelo": "AGILE",
+            "placa": "TWV-2302"
+        },
+        {
+            "km": "67490",
+            "marca": "RENAULT",
+            "modelo": "CLIO",
+            "placa": "TDI-3756"
+        },
+        {
+            "km": "103875",
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "placa": "MJU-9726"
+        },
+        {
+            "km": "85292",
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "placa": "JUP-7094"
+        },
+        {
+            "km": "209735",
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "placa": "HZN-3872"
+        },
+        {
+            "km": "247103",
+            "marca": "CHEVROLET",
+            "modelo": "VECTRA",
+            "placa": "CMO-3162"
+        },
+        {
+            "km": "202464",
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "placa": "YGK-2297"
+        },
+        {
+            "km": "189197",
+            "marca": "HYUNDAI",
+            "modelo": "I30",
+            "placa": "DGO-6971"
+        },
+        {
+            "km": "100668",
+            "marca": "FIAT",
+            "modelo": "PALIO WEEKEND",
+            "placa": "PQX-2791"
+        },
+        {
+            "km": "108606",
+            "marca": "FIAT",
+            "modelo": "MOBI",
+            "placa": "HJK-1988"
+        },
+        {
+            "km": "28926",
+            "marca": "PEUGEOT",
+            "modelo": "207",
+            "placa": "EQA-5194"
+        },
+        {
+            "km": "64369",
+            "marca": "TOYOTA",
+            "modelo": "ETIOS SEDAN",
+            "placa": "HQV-7970"
+        },
+        {
+            "km": "154937",
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "placa": "KHF-5250"
+        },
+        {
+            "km": "72485",
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "placa": "ETD-3865"
+        },
+        {
+            "km": "84256",
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "placa": "SFT-8962"
+        },
+        {
+            "km": "121686",
+            "marca": "FORD",
+            "modelo": "ECOSPORT",
+            "placa": "VGX-5355"
+        },
+        {
+            "km": "238206",
+            "marca": "FIAT",
+            "modelo": "UNO",
+            "placa": "CLI-8482"
+        },
+        {
+            "km": "36167",
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "placa": "CTZ-1296"
+        },
+        {
+            "km": "124833",
+            "marca": "FIAT",
+            "modelo": "IDEA",
+            "placa": "PVF-6749"
+        },
+        {
+            "km": "251133",
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "placa": "LJC-4593"
+        },
+        {
+            "km": "178709",
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "placa": "MRE-3992"
+        },
+        {
+            "km": "89204",
+            "marca": "FIAT",
+            "modelo": "PALIO WEEKEND",
+            "placa": "SSL-3710"
+        },
+        {
+            "km": "154869",
+            "marca": "HONDA",
+            "modelo": "HR-V",
+            "placa": "LQO-6552"
+        },
+        {
+            "km": "227406",
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "placa": "NZA-9454"
+        },
+        {
+            "km": "81991",
+            "marca": "FIAT",
+            "modelo": "UNO",
+            "placa": "GUB-4991"
+        },
+        {
+            "km": "249668",
+            "marca": "NISSAN",
+            "modelo": "KICKS",
+            "placa": "PUI-6388"
+        },
+        {
+            "km": "42709",
+            "marca": "AUDI",
+            "modelo": "A3",
+            "placa": "XGZ-8601"
+        },
+        {
+            "km": "242624",
+            "marca": "VOLKSWAGEN",
+            "modelo": "FOX",
+            "placa": "FYD-5785"
+        },
+        {
+            "km": "148230",
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "placa": "GGJ-5152"
+        },
+        {
+            "km": "114462",
+            "marca": "HYUNDAI",
+            "modelo": "I30",
+            "placa": "EEI-2205"
+        },
+        {
+            "km": "212246",
+            "marca": "RENAULT",
+            "modelo": "DUSTER",
+            "placa": "DCT-7114"
+        },
+        {
+            "km": "178576",
+            "marca": "CHEVROLET",
+            "modelo": "PRISMA",
+            "placa": "ZRW-5074"
+        },
+        {
+            "km": "23967",
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "placa": "HAV-8986"
+        },
+        {
+            "km": "253484",
+            "marca": "PEUGEOT",
+            "modelo": "207",
+            "placa": "JGE-2404"
+        },
+        {
+            "km": "190060",
+            "marca": "RENAULT",
+            "modelo": "CLIO",
+            "placa": "MKR-9718"
+        },
+        {
+            "km": "176563",
+            "marca": "FIAT",
+            "modelo": "MOBI",
+            "placa": "PSO-3724"
+        },
+        {
+            "km": "160532",
+            "marca": "HYUNDAI",
+            "modelo": "HB20",
+            "placa": "ZFN-6369"
+        },
+        {
+            "km": "156400",
+            "marca": "VOLKSWAGEN",
+            "modelo": "FOX",
+            "placa": "WMI-7601"
+        },
+        {
+            "km": "36555",
+            "marca": "FORD",
+            "modelo": "KA",
+            "placa": "OWM-9043"
+        },
+        {
+            "km": "69629",
+            "marca": "CHEVROLET",
+            "modelo": "PRISMA",
+            "placa": "VCI-8575"
+        },
+        {
+            "km": "90240",
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "placa": "BPU-8742"
+        },
+        {
+            "km": "107583",
+            "marca": "TOYOTA",
+            "modelo": "ETIOS SEDAN",
+            "placa": "UTD-2140"
+        },
+        {
+            "km": "245792",
+            "marca": "VOLKSWAGEN",
+            "modelo": "GOL",
+            "placa": "FBC-7030"
+        },
+        {
+            "km": "232175",
+            "marca": "VOLKSWAGEN",
+            "modelo": "FOX",
+            "placa": "GHR-3709"
+        },
+        {
+            "km": "103115",
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "placa": "NLK-4977"
+        },
+        {
+            "km": "32001",
+            "marca": "HONDA",
+            "modelo": "CITY",
+            "placa": "JYO-2603"
+        },
+        {
+            "km": "100508",
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "placa": "PSO-4552"
+        },
+        {
+            "km": "175856",
+            "marca": "TOYOTA",
+            "modelo": "ETIOS",
+            "placa": "ATL-1774"
+        },
+        {
+            "km": "114112",
+            "marca": "NISSAN",
+            "modelo": "MARCH",
+            "placa": "AYS-8164"
+        },
+        {
+            "km": "25342",
+            "marca": "HONDA",
+            "modelo": "CIVIC",
+            "placa": "BIW-5469"
+        },
+        {
+            "km": "133344",
+            "marca": "FIAT",
+            "modelo": "PUNTO",
+            "placa": "OHS-7347"
+        },
+        {
+            "km": "164315",
+            "marca": "FIAT",
+            "modelo": "MOBI",
+            "placa": "MYO-5939"
+        },
+        {
+            "km": "168310",
+            "marca": "FIAT",
+            "modelo": "PUNTO",
+            "placa": "DIE-5219"
+        },
+        {
+            "km": "79890",
+            "marca": "FIAT",
+            "modelo": "MOBI",
+            "placa": "LCE-8111"
+        },
+        {
+            "km": "165683",
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "placa": "EVU-1747"
+        },
+        {
+            "km": "219409",
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "placa": "PUS-4424"
+        },
+        {
+            "km": "205921",
+            "marca": "HONDA",
+            "modelo": "CIVIC",
+            "placa": "GTQ-5332"
+        },
+        {
+            "km": "250485",
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "placa": "PUA-7299"
+        },
+        {
+            "km": "182022",
+            "marca": "VOLKSWAGEN",
+            "modelo": "GOL",
+            "placa": "RRS-6203"
+        },
+        {
+            "km": "221267",
+            "marca": "HYUNDAI",
+            "modelo": "HB20",
+            "placa": "QVE-7855"
+        },
+        {
+            "km": "192848",
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "placa": "HYN-4200"
+        },
+        {
+            "km": "236651",
+            "marca": "FIAT",
+            "modelo": "PALIO WEEKEND",
+            "placa": "MLV-4787"
+        },
+        {
+            "km": "209304",
+            "marca": "FIAT",
+            "modelo": "PUNTO",
+            "placa": "OCX-7944"
+        },
+        {
+            "km": "105977",
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "placa": "SXU-6603"
+        },
+        {
+            "km": "85745",
+            "marca": "CHEVROLET",
+            "modelo": "VECTRA",
+            "placa": "KTO-1814"
+        },
+        {
+            "km": "198030",
+            "marca": "FIAT",
+            "modelo": "STRADA",
+            "placa": "KVO-6730"
+        },
+        {
+            "km": "190585",
+            "marca": "VOLKSWAGEN",
+            "modelo": "SPACEFOX",
+            "placa": "SXG-6134"
+        },
+        {
+            "km": "86685",
+            "marca": "FIAT",
+            "modelo": "SIENA",
+            "placa": "LTK-4529"
+        },
+        {
+            "km": "163723",
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "placa": "YBH-6184"
+        },
+        {
+            "km": "67256",
+            "marca": "PEUGEOT",
+            "modelo": "207",
+            "placa": "VKD-8325"
+        },
+        {
+            "km": "43986",
+            "marca": "TOYOTA",
+            "modelo": "ETIOS",
+            "placa": "KSR-6289"
+        },
+        {
+            "km": "101510",
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "placa": "PZP-3686"
+        },
+        {
+            "km": "81455",
+            "marca": "VOLKSWAGEN",
+            "modelo": "FUSCA",
+            "placa": "XXU-2553"
+        },
+        {
+            "km": "221370",
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "placa": "PYR-7643"
+        },
+        {
+            "km": "43176",
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "placa": "EPA-3335"
+        },
+        {
+            "km": "189662",
+            "marca": "HYUNDAI",
+            "modelo": "I30",
+            "placa": "VNR-7017"
+        },
+        {
+            "km": "119806",
+            "marca": "HONDA",
+            "modelo": "HR-V",
+            "placa": "NJI-7465"
+        },
+        {
+            "km": "169770",
+            "marca": "CHEVROLET",
+            "modelo": "CAPTIVA",
+            "placa": "MVC-9963"
+        },
+        {
+            "km": "221841",
+            "marca": "FIAT",
+            "modelo": "STRADA",
+            "placa": "PUX-9879"
+        },
+        {
+            "km": "102006",
+            "marca": "HYUNDAI",
+            "modelo": "I30",
+            "placa": "RNE-1722"
+        },
+        {
+            "km": "115461",
+            "marca": "HONDA",
+            "modelo": "CIVIC",
+            "placa": "XTM-1271"
+        },
+        {
+            "km": "248728",
+            "marca": "HONDA",
+            "modelo": "HR-V",
+            "placa": "NXM-9358"
+        },
+        {
+            "km": "207426",
+            "marca": "VOLKSWAGEN",
+            "modelo": "SPACEFOX",
+            "placa": "QKK-2951"
+        },
+        {
+            "km": "126470",
+            "marca": "CHEVROLET",
+            "modelo": "AGILE",
+            "placa": "CSJ-1871"
+        },
+        {
+            "km": "220686",
+            "marca": "FIAT",
+            "modelo": "IDEA",
+            "placa": "XDT-9689"
+        },
+        {
+            "km": "184724",
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "placa": "RJE-2977"
+        },
+        {
+            "km": "157961",
+            "marca": "AUDI",
+            "modelo": "A3",
+            "placa": "IJO-6206"
+        },
+        {
+            "km": "241546",
+            "marca": "HYUNDAI",
+            "modelo": "TUCSON",
+            "placa": "QTA-4430"
+        },
+        {
+            "km": "48718",
+            "marca": "FIAT",
+            "modelo": "PALIO WEEKEND",
+            "placa": "XQF-2142"
+        },
+        {
+            "km": "50325",
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "placa": "STR-2280"
+        },
+        {
+            "km": "194147",
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "placa": "TNU-7923"
+        },
+        {
+            "km": "104540",
+            "marca": "CHEVROLET",
+            "modelo": "CAPTIVA",
+            "placa": "CTW-5772"
+        },
+        {
+            "km": "101459",
+            "marca": "FIAT",
+            "modelo": "SIENA",
+            "placa": "CVX-8830"
+        },
+        {
+            "km": "238866",
+            "marca": "VOLKSWAGEN",
+            "modelo": "SPACEFOX",
+            "placa": "IPQ-7262"
+        },
+        {
+            "km": "86274",
+            "marca": "HYUNDAI",
+            "modelo": "HB20",
+            "placa": "KYT-4964"
+        },
+        {
+            "km": "45731",
+            "marca": "CHEVROLET",
+            "modelo": "COBALT",
+            "placa": "GXX-6615"
+        },
+        {
+            "km": "47095",
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "placa": "DPV-7191"
+        },
+        {
+            "km": "164780",
+            "marca": "CHEVROLET",
+            "modelo": "CORSA",
+            "placa": "IWI-8582"
+        },
+        {
+            "km": "44235",
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "placa": "FPZ-3134"
+        },
+        {
+            "km": "38328",
+            "marca": "CHEVROLET",
+            "modelo": "VECTRA",
+            "placa": "SYD-8494"
+        },
+        {
+            "km": "184898",
+            "marca": "CHEVROLET",
+            "modelo": "CORSA",
+            "placa": "AQF-4721"
+        },
+        {
+            "km": "99275",
+            "marca": "FIAT",
+            "modelo": "PALIO WEEKEND",
+            "placa": "FZF-6058"
+        },
+        {
+            "km": "39268",
+            "marca": "FIAT",
+            "modelo": "IDEA",
+            "placa": "XNB-9671"
+        },
+        {
+            "km": "205054",
+            "marca": "CHEVROLET",
+            "modelo": "AGILE",
+            "placa": "QNE-4237"
+        },
+        {
+            "km": "183123",
+            "marca": "CHEVROLET",
+            "modelo": "AGILE",
+            "placa": "HQS-9039"
+        },
+        {
+            "km": "155723",
+            "marca": "NISSAN",
+            "modelo": "MARCH",
+            "placa": "ZPW-9742"
+        },
+        {
+            "km": "24387",
+            "marca": "VOLKSWAGEN",
+            "modelo": "FUSCA",
+            "placa": "TKK-7528"
+        },
+        {
+            "km": "48258",
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "placa": "KTN-7188"
+        },
+        {
+            "km": "65550",
+            "marca": "HONDA",
+            "modelo": "CIVIC",
+            "placa": "XEM-6894"
+        },
+        {
+            "km": "160067",
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "placa": "LIG-5760"
+        },
+        {
+            "km": "166008",
+            "marca": "VOLKSWAGEN",
+            "modelo": "JETA",
+            "placa": "KXL-9229"
+        },
+        {
+            "km": "159582",
+            "marca": "VOLKSWAGEN",
+            "modelo": "JETA",
+            "placa": "HXT-7422"
+        },
+        {
+            "km": "32734",
+            "marca": "CHEVROLET",
+            "modelo": "CAPTIVA",
+            "placa": "ZAV-6771"
+        },
+        {
+            "km": "57842",
+            "marca": "VOLKSWAGEN",
+            "modelo": "FUSCA",
+            "placa": "LUP-3392"
+        },
+        {
+            "km": "198141",
+            "marca": "HYUNDAI",
+            "modelo": "HB20",
+            "placa": "TAQ-5976"
+        },
+        {
+            "km": "251106",
+            "marca": "NISSAN",
+            "modelo": "KICKS",
+            "placa": "YHK-7689"
+        },
+        {
+            "km": "118373",
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "placa": "UYH-6711"
+        },
+        {
+            "km": "205239",
+            "marca": "FIAT",
+            "modelo": "IDEA",
+            "placa": "MDI-1901"
+        },
+        {
+            "km": "243744",
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "placa": "HAE-6102"
+        },
+        {
+            "km": "256377",
+            "marca": "TOYOTA",
+            "modelo": "ETIOS SEDAN",
+            "placa": "EHZ-4405"
+        },
+        {
+            "km": "113166",
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "placa": "OAF-8378"
+        },
+        {
+            "km": "130399",
+            "marca": "RENAULT",
+            "modelo": "KWID",
+            "placa": "MSL-4010"
+        },
+        {
+            "km": "92072",
+            "marca": "FIAT",
+            "modelo": "PALIO WEEKEND",
+            "placa": "XHD-2092"
+        },
+        {
+            "km": "213242",
+            "marca": "FIAT",
+            "modelo": "PALIO",
+            "placa": "HPJ-1853"
+        },
+        {
+            "km": "158252",
+            "marca": "HYUNDAI",
+            "modelo": "TUCSON",
+            "placa": "GUO-1903"
+        },
+        {
+            "km": "202735",
+            "marca": "FORD",
+            "modelo": "KA",
+            "placa": "RVY-6201"
+        },
+        {
+            "km": "120829",
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "placa": "JJR-6659"
+        },
+        {
+            "km": "131801",
+            "marca": "FIAT",
+            "modelo": "SIENA",
+            "placa": "YXA-6734"
+        },
+        {
+            "km": "118142",
+            "marca": "CITRO\u00cbN",
+            "modelo": "C3",
+            "placa": "YAU-5220"
+        },
+        {
+            "km": "220250",
+            "marca": "HONDA",
+            "modelo": "HR-V",
+            "placa": "ZMW-8521"
+        },
+        {
+            "km": "185240",
+            "marca": "NISSAN",
+            "modelo": "MARCH",
+            "placa": "HFU-4021"
+        },
+        {
+            "km": "183033",
+            "marca": "CHEVROLET",
+            "modelo": "CLASSIC",
+            "placa": "LFJ-9284"
+        },
+        {
+            "km": "221891",
+            "marca": "NISSAN",
+            "modelo": "MARCH",
+            "placa": "SOM-2743"
+        },
+        {
+            "km": "172441",
+            "marca": "CITRO\u00cbN",
+            "modelo": "C3",
+            "placa": "XAY-5503"
+        },
+        {
+            "km": "47242",
+            "marca": "VOLKSWAGEN",
+            "modelo": "GOL",
+            "placa": "UQO-9651"
+        },
+        {
+            "km": "63901",
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "placa": "LPP-2339"
+        },
+        {
+            "km": "46556",
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "placa": "MKM-4176"
+        },
+        {
+            "km": "36906",
+            "marca": "FORD",
+            "modelo": "KA",
+            "placa": "ZRR-4119"
+        },
+        {
+            "km": "24690",
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "placa": "SBB-9450"
+        }
+    ]
+}
