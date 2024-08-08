@@ -52,6 +52,9 @@
   - [Dispositivos Móveis](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-5-PERIODO/DISPOSITIVOS%20M%C3%93VEIS)
   - [Engenharia de Software II](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-5-PERIODO/ENGENHARIA%20DE%20SOFTWARE%20II)
   - [Projeto Integrador III B](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-5-PERIODO/PROJETO%20INTEGRADOR)
+  - [Modelagem e Desenvolvimento de Dados](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-5-PERIODO/MODELAGEM%20E%20DESENVOLVIMENTO%20DE%20DADOS)
+  - [Projeto Integrador IV-A](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-5-PERIODO/PROJETO%20INTEGRADOR%20IV-A)
+  - [Ferramentas de Desenvolvimento Web](https://github.com/Raii-Azevedo/IFES/tree/main/IFES-5-PERIODO/FERRAMENTA%20DE%20DESENVOLVIMENTO%20WEB)
  
 
 
