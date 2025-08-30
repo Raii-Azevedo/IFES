@@ -1,0 +1,10 @@
+Crie um arquivo de entrada a partir de um texto qualquer capturado da
+internet. Um artigo de jornal, por exemplo. Nomeie esse arquivo como
+documento1.txt. Construa um programa python para remover os acentos
+desse arquivo. O arquivo deve ser lido linha a linha. O conteúdo sem
+acentos deve ser escrito em um novo arquivo. Cada linha lida da entrada
+deve ter os seus acentos removidos, quando então é gravada no arquivo
+de saída (pelo programa principal). Construa uma função para remover
+os acentos. A função deve ser chamada para cada linha lida do arquivo
+documento1.txt. A função deve retornar o texto de entrada sem os
+acentos.

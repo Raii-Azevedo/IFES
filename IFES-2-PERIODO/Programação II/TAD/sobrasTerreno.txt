@@ -1,0 +1,7 @@
+    l1 = tret.cria_lh(1 * larg_rua + 0 * larg_l, 2 * larg_rua + 0 * comp_t, larg_l,  comp_l)
+    l2 = tret.cria_lh(1 * larg_rua + 0 * larg_l, 2 * larg_rua + 0 * comp_t, larg_l,  comp_l)
+    l3 = tret.cria_lh(1 * larg_rua + 0 * larg_l, 2 * larg_rua + 0 * comp_t, larg_l,  comp_l)
+
+    l4 = tret.cria_lh(1 * larg_rua + 0 * larg_l, 2 * larg_rua + 1 * comp_t, larg_l,  comp_l)
+    l5 = tret.cria_lh(1 * larg_rua + 0 * larg_l, 2 * larg_rua + 1 * comp_t, larg_l,  comp_l)
+    l6 = tret.cria_lh(1 * larg_rua + 0 * larg_l, 2 * larg_rua + 1 * comp_t, larg_l,  comp_l)

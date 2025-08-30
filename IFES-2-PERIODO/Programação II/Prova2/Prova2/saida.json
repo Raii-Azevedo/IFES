@@ -1,0 +1,749 @@
+{
+    "dados": {
+        "ADW-2760": {
+            "marca": "TOYOTA",
+            "modelo": "ETIOS",
+            "quilometragem": "348016"
+        },
+        "ALD-8959": {
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "quilometragem": "515189"
+        },
+        "AOH-7187": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "FOX",
+            "quilometragem": "453095"
+        },
+        "AVR-7240": {
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "quilometragem": "646315"
+        },
+        "AWU-7923": {
+            "marca": "CHEVROLET",
+            "modelo": "CORSA",
+            "quilometragem": "228605"
+        },
+        "AXS-1268": {
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "quilometragem": "723768"
+        },
+        "BCV-6100": {
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "quilometragem": "369539"
+        },
+        "BGU-2666": {
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "quilometragem": "148962"
+        },
+        "BHY-6441": {
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "quilometragem": "314078"
+        },
+        "BMU-8572": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "798625"
+        },
+        "BQK-5190": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "544619"
+        },
+        "BSF-3890": {
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "quilometragem": "764271"
+        },
+        "BWD-7544": {
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "quilometragem": "239936"
+        },
+        "CAI-2655": {
+            "marca": "FIAT",
+            "modelo": "IDEA",
+            "quilometragem": "440773"
+        },
+        "CAW-4126": {
+            "marca": "CHEVROLET",
+            "modelo": "PRISMA",
+            "quilometragem": "22825"
+        },
+        "CCJ-1604": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "467298"
+        },
+        "CCR-2858": {
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "quilometragem": "998247"
+        },
+        "CEK-6127": {
+            "marca": "RENAULT",
+            "modelo": "CLIO",
+            "quilometragem": "207582"
+        },
+        "DCB-5583": {
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "quilometragem": "994566"
+        },
+        "DPI-8217": {
+            "marca": "CHEVROLET",
+            "modelo": "PRISMA",
+            "quilometragem": "825736"
+        },
+        "DQD-5219": {
+            "marca": "TOYOTA",
+            "modelo": "ETIOS SEDAN",
+            "quilometragem": "355099"
+        },
+        "DVV-8740": {
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "quilometragem": "620626"
+        },
+        "EFJ-3029": {
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "quilometragem": "204759"
+        },
+        "EJA-7034": {
+            "marca": "HONDA",
+            "modelo": "CITY",
+            "quilometragem": "243392"
+        },
+        "ENE-8919": {
+            "marca": "AUDI",
+            "modelo": "A3",
+            "quilometragem": "318233"
+        },
+        "EZF-1774": {
+            "marca": "HYUNDAI",
+            "modelo": "HB20",
+            "quilometragem": "130098"
+        },
+        "FAA-8649": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "185821"
+        },
+        "FAI-8005": {
+            "marca": "HONDA",
+            "modelo": "HR-V",
+            "quilometragem": "691239"
+        },
+        "FCC-6142": {
+            "marca": "CHEVROLET",
+            "modelo": "CORSA",
+            "quilometragem": "63030"
+        },
+        "FDX-6513": {
+            "marca": "FIAT",
+            "modelo": "MOBI",
+            "quilometragem": "576128"
+        },
+        "FNT-4888": {
+            "marca": "CHEVROLET",
+            "modelo": "CAPTIVA",
+            "quilometragem": "487073"
+        },
+        "FSW-8021": {
+            "marca": "CHEVROLET",
+            "modelo": "VECTRA",
+            "quilometragem": "109924"
+        },
+        "FUU-9469": {
+            "marca": "CHEVROLET",
+            "modelo": "VECTRA",
+            "quilometragem": "162799"
+        },
+        "FWR-6398": {
+            "marca": "PEUGEOT",
+            "modelo": "207",
+            "quilometragem": "371414"
+        },
+        "GAN-8948": {
+            "marca": "CITRO\u00c3\u2039N",
+            "modelo": "C3",
+            "quilometragem": "208544"
+        },
+        "GIJ-3850": {
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "quilometragem": "871380"
+        },
+        "GQD-5419": {
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "quilometragem": "990790"
+        },
+        "GRW-5241": {
+            "marca": "CHEVROLET",
+            "modelo": "COBALT",
+            "quilometragem": "395463"
+        },
+        "GWK-1839": {
+            "marca": "CHEVROLET",
+            "modelo": "PRISMA",
+            "quilometragem": "389971"
+        },
+        "HGL-5907": {
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "quilometragem": "570090"
+        },
+        "HGQ-1840": {
+            "marca": "FIAT",
+            "modelo": "SIENA",
+            "quilometragem": "160993"
+        },
+        "HKO-5375": {
+            "marca": "FIAT",
+            "modelo": "PALIO WEEKEND",
+            "quilometragem": "746296"
+        },
+        "IAR-4053": {
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "quilometragem": "401230"
+        },
+        "ICB-9118": {
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "quilometragem": "886960"
+        },
+        "ICD-9786": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "120493"
+        },
+        "ICF-6948": {
+            "marca": "RENAULT",
+            "modelo": "CAPTUR",
+            "quilometragem": "709388"
+        },
+        "IFF-1377": {
+            "marca": "FIAT",
+            "modelo": "STRADA",
+            "quilometragem": "149891"
+        },
+        "IGR-9428": {
+            "marca": "FIAT",
+            "modelo": "MOBI",
+            "quilometragem": "949297"
+        },
+        "IHA-3440": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "239655"
+        },
+        "IHH-5511": {
+            "marca": "RENAULT",
+            "modelo": "KWID",
+            "quilometragem": "693676"
+        },
+        "IHT-6997": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "FOX",
+            "quilometragem": "661727"
+        },
+        "IRO-8580": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "SPACEFOX",
+            "quilometragem": "376526"
+        },
+        "ITM-4626": {
+            "marca": "RENAULT",
+            "modelo": "DUSTER",
+            "quilometragem": "710631"
+        },
+        "IZJ-2926": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "UP",
+            "quilometragem": "112932"
+        },
+        "JCG-9343": {
+            "marca": "CHEVROLET",
+            "modelo": "CLASSIC",
+            "quilometragem": "15217"
+        },
+        "JDJ-4502": {
+            "marca": "CHEVROLET",
+            "modelo": "PRISMA",
+            "quilometragem": "105207"
+        },
+        "JDQ-6777": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "quilometragem": "858068"
+        },
+        "JFE-3484": {
+            "marca": "FIAT",
+            "modelo": "PALIO",
+            "quilometragem": "814621"
+        },
+        "JID-6747": {
+            "marca": "FIAT",
+            "modelo": "PALIO",
+            "quilometragem": "602447"
+        },
+        "JJZ-6486": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "721939"
+        },
+        "JPQ-7270": {
+            "marca": "HONDA",
+            "modelo": "CIVIC",
+            "quilometragem": "649862"
+        },
+        "JQZ-1839": {
+            "marca": "FORD",
+            "modelo": "KA",
+            "quilometragem": "798957"
+        },
+        "JTD-9168": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "UP",
+            "quilometragem": "557052"
+        },
+        "JVM-6993": {
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "quilometragem": "736752"
+        },
+        "JXJ-8182": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "696658"
+        },
+        "JYM-8109": {
+            "marca": "JEEP",
+            "modelo": "RENEGADE",
+            "quilometragem": "698245"
+        },
+        "KDG-2761": {
+            "marca": "CITRO\u00c3\u2039N",
+            "modelo": "C3",
+            "quilometragem": "930653"
+        },
+        "KRQ-4884": {
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "quilometragem": "680469"
+        },
+        "KSC-8558": {
+            "marca": "FORD",
+            "modelo": "ECOSPORT",
+            "quilometragem": "30291"
+        },
+        "LFS-8535": {
+            "marca": "FIAT",
+            "modelo": "UNO",
+            "quilometragem": "295721"
+        },
+        "LZX-3140": {
+            "marca": "CITRO\u00c3\u2039N",
+            "modelo": "C3",
+            "quilometragem": "17451"
+        },
+        "MCE-3341": {
+            "marca": "FIAT",
+            "modelo": "STRADA",
+            "quilometragem": "519579"
+        },
+        "MCR-4225": {
+            "marca": "RENAULT",
+            "modelo": "SANDERO",
+            "quilometragem": "809299"
+        },
+        "MDW-8991": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "60071"
+        },
+        "MMT-5940": {
+            "marca": "HONDA",
+            "modelo": "CITY",
+            "quilometragem": "502407"
+        },
+        "MNR-4178": {
+            "marca": "FIAT",
+            "modelo": "PUNTO",
+            "quilometragem": "372721"
+        },
+        "MQX-4510": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "quilometragem": "123367"
+        },
+        "MWB-1572": {
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "quilometragem": "848586"
+        },
+        "MXD-8656": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "SAVEIRO",
+            "quilometragem": "22812"
+        },
+        "MYT-1956": {
+            "marca": "CHEVROLET",
+            "modelo": "CLASSIC",
+            "quilometragem": "536956"
+        },
+        "NCQ-5191": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "713719"
+        },
+        "NMK-1420": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "quilometragem": "299112"
+        },
+        "NOC-6197": {
+            "marca": "FIAT",
+            "modelo": "UNO",
+            "quilometragem": "688227"
+        },
+        "NPO-9736": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "SAVEIRO",
+            "quilometragem": "942572"
+        },
+        "NVQ-3506": {
+            "marca": "HONDA",
+            "modelo": "HR-V",
+            "quilometragem": "882650"
+        },
+        "OGL-9605": {
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "quilometragem": "416967"
+        },
+        "ONC-1648": {
+            "marca": "CHEVROLET",
+            "modelo": "CORSA",
+            "quilometragem": "781756"
+        },
+        "PEG-3760": {
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "quilometragem": "489361"
+        },
+        "PFB-4530": {
+            "marca": "TOYOTA",
+            "modelo": "ETIOS SEDAN",
+            "quilometragem": "643654"
+        },
+        "PIE-8516": {
+            "marca": "RENAULT",
+            "modelo": "CLIO",
+            "quilometragem": "163186"
+        },
+        "PJD-1954": {
+            "marca": "CHEVROLET",
+            "modelo": "VECTRA",
+            "quilometragem": "271192"
+        },
+        "PQG-4556": {
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "quilometragem": "632750"
+        },
+        "QCV-2101": {
+            "marca": "CHEVROLET",
+            "modelo": "CLASSIC",
+            "quilometragem": "442641"
+        },
+        "QGA-1412": {
+            "marca": "FIAT",
+            "modelo": "STRADA",
+            "quilometragem": "933631"
+        },
+        "QMZ-5614": {
+            "marca": "FIAT",
+            "modelo": "SIENA",
+            "quilometragem": "137344"
+        },
+        "RGC-9955": {
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "quilometragem": "413541"
+        },
+        "RJI-3644": {
+            "marca": "RENAULT",
+            "modelo": "KWID",
+            "quilometragem": "679649"
+        },
+        "ROP-7053": {
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "quilometragem": "472050"
+        },
+        "RSY-7397": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "UP",
+            "quilometragem": "530694"
+        },
+        "RTT-2220": {
+            "marca": "CHEVROLET",
+            "modelo": "VECTRA",
+            "quilometragem": "320246"
+        },
+        "RUS-4619": {
+            "marca": "RENAULT",
+            "modelo": "KWID",
+            "quilometragem": "381208"
+        },
+        "RVZ-9991": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "281837"
+        },
+        "SEC-9133": {
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "quilometragem": "86527"
+        },
+        "SEF-3616": {
+            "marca": "CHEVROLET",
+            "modelo": "CORSA",
+            "quilometragem": "527276"
+        },
+        "SNT-7582": {
+            "marca": "HONDA",
+            "modelo": "HR-V",
+            "quilometragem": "627008"
+        },
+        "SPQ-4348": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "973677"
+        },
+        "TAT-8229": {
+            "marca": "HONDA",
+            "modelo": "CIVIC",
+            "quilometragem": "559893"
+        },
+        "TFH-3139": {
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "quilometragem": "423054"
+        },
+        "TLI-8783": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "853165"
+        },
+        "TPH-3396": {
+            "marca": "FIAT",
+            "modelo": "STRADA",
+            "quilometragem": "707598"
+        },
+        "TWS-1481": {
+            "marca": "RENAULT",
+            "modelo": "DUSTER",
+            "quilometragem": "797344"
+        },
+        "TXH-6110": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "983798"
+        },
+        "UCB-9257": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "quilometragem": "573441"
+        },
+        "UCM-3367": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "UP",
+            "quilometragem": "187853"
+        },
+        "UHW-3018": {
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "quilometragem": "306070"
+        },
+        "UIF-9525": {
+            "marca": "FORD",
+            "modelo": "ECOSPORT",
+            "quilometragem": "728925"
+        },
+        "UJU-4474": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "SPACEFOX",
+            "quilometragem": "338405"
+        },
+        "UWS-5017": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "JETA",
+            "quilometragem": "102417"
+        },
+        "VBX-3195": {
+            "marca": "RENAULT",
+            "modelo": "CAPTUR",
+            "quilometragem": "494427"
+        },
+        "VGW-3686": {
+            "marca": "FIAT",
+            "modelo": "TORO",
+            "quilometragem": "484059"
+        },
+        "VRW-2429": {
+            "marca": "RENAULT",
+            "modelo": "DUSTER",
+            "quilometragem": "33212"
+        },
+        "VUQ-2363": {
+            "marca": "TOYOTA",
+            "modelo": "ETIOS",
+            "quilometragem": "840557"
+        },
+        "WPH-5710": {
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "quilometragem": "966731"
+        },
+        "WUU-2959": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "SPACEFOX",
+            "quilometragem": "512494"
+        },
+        "WVY-1938": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "GOLF",
+            "quilometragem": "518304"
+        },
+        "WXI-1321": {
+            "marca": "FIAT",
+            "modelo": "IDEA",
+            "quilometragem": "131216"
+        },
+        "XHY-6370": {
+            "marca": "HONDA",
+            "modelo": "FIT",
+            "quilometragem": "876454"
+        },
+        "XLY-7312": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "485345"
+        },
+        "XSA-8236": {
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "quilometragem": "339477"
+        },
+        "XUA-9721": {
+            "marca": "AUDI",
+            "modelo": "A3",
+            "quilometragem": "839919"
+        },
+        "YBG-6718": {
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "quilometragem": "830766"
+        },
+        "YDI-1402": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "FUSCA",
+            "quilometragem": "320809"
+        },
+        "YHH-6228": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "quilometragem": "241332"
+        },
+        "YIY-8451": {
+            "marca": "TOYOTA",
+            "modelo": "COROLLA",
+            "quilometragem": "180042"
+        },
+        "YMO-2703": {
+            "marca": "CHEVROLET",
+            "modelo": "CELTA",
+            "quilometragem": "905525"
+        },
+        "YVA-7613": {
+            "marca": "FORD",
+            "modelo": "FOCUS",
+            "quilometragem": "888592"
+        },
+        "YYA-1717": {
+            "marca": "RENAULT",
+            "modelo": "KWID",
+            "quilometragem": "634605"
+        },
+        "ZAH-8474": {
+            "marca": "HONDA",
+            "modelo": "CITY",
+            "quilometragem": "40918"
+        },
+        "ZCM-5565": {
+            "marca": "NISSAN",
+            "modelo": "MARCH",
+            "quilometragem": "762386"
+        },
+        "ZDV-2142": {
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "quilometragem": "679003"
+        },
+        "ZDX-9015": {
+            "marca": "CHEVROLET",
+            "modelo": "COBALT",
+            "quilometragem": "537535"
+        },
+        "ZEJ-8707": {
+            "marca": "TOYOTA",
+            "modelo": "HILUX",
+            "quilometragem": "841926"
+        },
+        "ZFL-9619": {
+            "marca": "CHEVROLET",
+            "modelo": "COBALT",
+            "quilometragem": "890384"
+        },
+        "ZGH-1406": {
+            "marca": "HYUNDAI",
+            "modelo": "TUCSON",
+            "quilometragem": "832107"
+        },
+        "ZIO-8005": {
+            "marca": "HONDA",
+            "modelo": "CIVIC",
+            "quilometragem": "113684"
+        },
+        "ZLU-8487": {
+            "marca": "HONDA",
+            "modelo": "CITY",
+            "quilometragem": "259940"
+        },
+        "ZSG-8451": {
+            "marca": "HYUNDAI",
+            "modelo": "I30",
+            "quilometragem": "372168"
+        },
+        "ZXG-5626": {
+            "marca": "CHEVROLET",
+            "modelo": "ONIX",
+            "quilometragem": "885442"
+        },
+        "ZZD-9049": {
+            "marca": "FORD",
+            "modelo": "ECOSPORT",
+            "quilometragem": "341190"
+        }
+    }
+}
