@@ -1,2 +1,0 @@
-print ('''14. Salários: Dado um número n, faça um procedimento que leia o nome e o salário de n funcionários de uma empresa 
-e imprima o nome de todos os funcionários que ganham mais que a média dos demais.''')
