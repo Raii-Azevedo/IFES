@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 from io import BytesIO
 from datetime import datetime
 from reportlab.lib.pagesizes import letter
