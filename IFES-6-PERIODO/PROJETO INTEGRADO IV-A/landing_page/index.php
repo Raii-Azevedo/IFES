@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    // Cabeçalho
     <header>
         <img src="imgs/logo.png" alt="Logo FAESA" class="logo">
         <h1>Bem-vindo à FAESA!</h1>
@@ -23,7 +24,7 @@
                 A FAESA é reconhecida pela qualidade de ensino, infraestrutura moderna e
                 professores qualificados. Oferecemos cursos que preparam você para o mercado de trabalho.
             </p>
-
+    // Carrossel de imagens
             <div class="carousel">
                 <div class="carousel-track">
                     <img src="imgs/campus1.png" alt="Campus FAESA 1">
@@ -34,7 +35,7 @@
                 </div>
             </div>
         </section>
-
+    // Seção de cursos
         <section class="cursos">
             <h2>Nossos Cursos</h2>
             <p>Escolha a área que combina com você e construa o seu futuro na FAESA.</p>
@@ -61,7 +62,7 @@
                 </div>
             </div>
         </section>
-
+    // Seção de simulação de desconto com nota do ENEM
         <section class="enem">
             <h2>Simule seu Desconto com a Nota do ENEM</h2>
             <p>Insira sua nota do ENEM e veja o desconto que você pode conquistar na FAESA!</p>
@@ -74,7 +75,7 @@
             </div>
         </section>
 
-
+    // Formulário de contato
         <section class="formulario">
             <h2>Entre em contato</h2>
             <form action="processa.php" method="POST">
@@ -93,7 +94,7 @@
                     <label for="telefone">Telefone (opcional)</label>
                     <input type="tel" id="telefone" name="telefone" placeholder="(99) 99999-9999">
                 </div>
-
+            // Seleção de assunto
                 <div class="input-group">
                     <label for="assunto">Assunto*</label>
                     <select id="assunto" name="assunto" required>
@@ -104,7 +105,7 @@
                         <option value="outros">Outros</option>
                     </select>
                 </div>
-
+            // Campo de mensagem
                 <div class="input-group">
                     <label for="mensagem">Mensagem*</label>
                     <textarea id="mensagem" name="mensagem" minlength="10" placeholder="Digite sua mensagem"
@@ -116,13 +117,14 @@
         </section>
 
     </main>
-
+    // Rodapé
     <footer>
         <p>&copy;
             <?php echo date("Y"); ?> FAESA - Todos os direitos reservados.
         </p>
     </footer>
 </body>
+// Script para o carrossel e simulação de desconto
 <script src="enem.js"></script>
 
 </html>

@@ -1,3 +1,4 @@
+// Simulação de desconto com nota do ENEM
 function calcularDesconto() {
     const nota = parseFloat(document.getElementById("notaEnem").value);
     const resultado = document.getElementById("resultado");
@@ -17,14 +18,14 @@ function calcularDesconto() {
     else desconto = 10;
 
     resultado.style.color = "#00ffcc";
-    resultado.innerHTML = `🎉 Parabéns! Você conquistou <strong>${desconto}%</strong> de desconto na 1ª mensalidade.`;
+    resultado.innerHTML = `🎉 Parabéns! \nVocê conquistou <strong>${desconto}%</strong> de desconto na 1ª mensalidade.`;
 }
 
 // Imagem Carrosel
 const track = document.querySelector(".carousel-track");
 const slides = Array.from(track.children);
 let index = 0;
-
+// função para mover o carrossel
 function moveCarousel() {
   index++;
   if (index >= slides.length) {

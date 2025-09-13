@@ -1,3 +1,4 @@
+// Script para criar o banco de dados e a tabela de contatos
 CREATE DATABASE landing_faesa;
 USE landing_faesa;
 
