@@ -1,73 +1,356 @@
-body {
-    font-family: Arial, sans-serif;
+/* Reset básico */
+* {
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom, #005baa, #00aaff);
-    color: #fff;
+    box-sizing: border-box;
 }
 
+/* Fonte mais moderna (Google Fonts) */
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    background: linear-gradient(to bottom, #004080, #00aaff);
+    color: #fff;
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
 header {
     text-align: center;
-    padding: 20px;
-    background: rgba(0,0,0,0.5);
+    padding: 40px 20px;
+    background: rgba(0,0,0,0.4);
+    border-bottom: 2px solid rgba(255,255,255,0.2);
 }
 
 .logo {
-    width: 150px;
+    width: 140px;
+    margin-bottom: 15px;
 }
 
-main {
-    padding: 20px;
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
 }
 
-.sobre {
-    text-align: center;
-    margin-bottom: 40px;
-}
-
-.sobre img {
-    max-width: 400px;
-    border-radius: 10px;
-    margin-top: 20px;
-}
-
-.formulario {
-    background: rgba(255,255,255,0.1);
-    padding: 20px;
-    border-radius: 10px;
-    max-width: 400px;
+header p {
+    font-size: 1.2rem;
+    max-width: 600px;
     margin: auto;
 }
 
-label {
+/* Seção Sobre */
+.sobre {
+    text-align: center;
+    margin: 80px auto;
+    max-width: 900px;
+    padding: 40px;
+    border-radius: 20px;
+    background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(0,0,0,0.2));
+    box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+    backdrop-filter: blur(6px);
+    animation: fadeInUp 1s ease-out;
+}
+
+/* Título com efeito neon */
+.sobre h2 {
+    font-size: 2.8rem;
+    margin-bottom: 20px;
+    color: #ffcc00;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 5px #ffcc00, 0 0 10px #ffaa00, 0 0 20px #ff8800;
+    animation: glow 2s infinite alternate;
+}
+
+/* Parágrafo com gradiente animado */
+.sobre p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    max-width: 750px;
+    margin: auto;
+    background: linear-gradient(90deg, #ffffff, #ffcc00, #00e6ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: gradientMove 4s linear infinite;
+}
+
+/* Imagem estilizada */
+.sobre img {
+    max-width: 100%;
+    border-radius: 20px;
+    margin-top: 30px;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+
+.sobre img:hover {
+    transform: scale(1.05) rotate(-1deg);
+    box-shadow: 0 18px 40px rgba(0,0,0,0.7);
+}
+
+/*Carousel*/
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: 20px auto;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.carousel-track {
+  display: flex;
+  transition: transform 0.8s ease-in-out;
+}
+
+.carousel-track img {
+  width: 100%;
+  flex-shrink: 0;
+}
+
+
+/* Animações */
+@keyframes glow {
+    from {
+        text-shadow: 0 0 5px #ffcc00, 0 0 15px #ffaa00, 0 0 25px #ff8800;
+    }
+    to {
+        text-shadow: 0 0 10px #ffee00, 0 0 25px #ffaa00, 0 0 40px #ff6600;
+    }
+}
+
+@keyframes gradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(40px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/*Cursos*/
+
+.cursos {
+    text-align: center;
+    padding: 60px 20px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 20px;
+    margin: 60px auto;
+    max-width: 1100px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+    backdrop-filter: blur(6px);
+    animation: fadeIn 1s ease-in-out;
+}
+
+.cursos h2 {
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+    color: #ffcc00;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 8px #ffaa00;
+}
+
+.cursos p {
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+    color: #e0e0e0;
+}
+
+/* Container de cards */
+.cursos-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 25px;
+}
+
+/* Card individual */
+.curso-card {
+    background: rgba(255,255,255,0.1);
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    cursor: pointer;
+}
+
+.curso-card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.5);
+    background: rgba(255,255,255,0.15);
+}
+
+.curso-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: #ffffff;
+    text-shadow: 0 0 5px #00cfff;
+}
+
+.curso-card p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+/* ENEM */
+.enem {
+    text-align: center;
+    padding: 60px 20px;
+    margin: 60px auto;
+    max-width: 700px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+    backdrop-filter: blur(6px);
+}
+
+.enem h2 {
+    font-size: 2.2rem;
+    margin-bottom: 15px;
+    color: #ffcc00;
+    text-shadow: 0 0 6px #ffaa00;
+}
+
+.enem p {
+    font-size: 1.1rem;
+    margin-bottom: 25px;
+    color: #e0e0e0;
+}
+
+.enem-simulador {
+    background: rgba(255,255,255,0.12);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.3);
+}
+
+.enem-simulador label {
     display: block;
-    margin-top: 10px;
+    margin-bottom: 8px;
     font-weight: bold;
+    color: #fff;
 }
 
-input, textarea, button {
+.enem-simulador input {
     width: 100%;
-    padding: 10px;
-    margin-top: 5px;
+    padding: 12px;
+    border-radius: 8px;
     border: none;
-    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    outline: none;
+    background: #fff;
+    color: #333;
 }
 
-button {
+.enem-simulador button {
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
     background: #ffcc00;
-    color: #000;
     font-weight: bold;
+    font-size: 1rem;
     cursor: pointer;
     transition: 0.3s;
 }
 
-button:hover {
+.enem-simulador button:hover {
     background: #ffaa00;
+    transform: scale(1.05);
 }
 
+#resultado {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #00ffcc;
+    text-shadow: 0 0 5px #00ffaa;
+}
+
+
+/* Formulário */
+.formulario {
+    background: rgba(255,255,255,0.15);
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    backdrop-filter: blur(6px);
+}
+
+.formulario h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ffcc00;
+    font-size: 1.8rem;
+}
+
+/* Grupo de inputs */
+.input-group {
+    margin-bottom: 18px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    font-size: 0.95rem;
+    margin-bottom: 6px;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    outline: none;
+    background: rgba(255,255,255,0.9);
+    color: #333;
+    transition: 0.3s;
+}
+
+/* Foco no campo */
+input:focus, textarea:focus, select:focus {
+    border: 2px solid #ffcc00;
+    background: #fff;
+}
+
+/* Caixa de texto */
+textarea {
+    resize: none;
+    min-height: 120px;
+}
+
+/* Botão */
+button {
+    width: 100%;
+    padding: 14px;
+    background: #ffcc00;
+    color: #000;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    border: none;
+}
+
+button:hover {
+    background: #ffaa00;
+    transform: scale(1.05);
+}
+
+
+/* Rodapé */
 footer {
     text-align: center;
-    padding: 10px;
-    background: rgba(0,0,0,0.5);
-    margin-top: 30px;
+    padding: 15px;
+    background: rgba(0,0,0,0.4);
+    margin-top: 50px;
+    font-size: 0.9rem;
+    border-top: 2px solid rgba(255,255,255,0.2);
 }
